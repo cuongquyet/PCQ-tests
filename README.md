@@ -1,2 +1,2 @@
 # PCQ-tests
-Using to do test
+Using to do tests
